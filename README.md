@@ -18,4 +18,4 @@ O objetivo principal deste projeto é oferecer uma compreensão prática dos con
 
 1. Clone este repositório.
    ```bash
-   git clone https://github.com/seu-usuario/react-social.git
+   git clone https://github.com/seu-usuario/react-social.git](https://github.com/DanielFossali/redeSocial)https://github.com/DanielFossali/redeSocial
