@@ -5,11 +5,11 @@
 > Status do Projeto:  :warning: (em desenvolvimento)
 
 
-##Tópicos
-:small_blue_diamond: [Visão Geral] (#Visão Geral)
-:small_blue_diamond: [Tecnologias utilizadas] (#Tecnologias Utilizadas)
-:small_blue_diamond: [Funcionalidades principais] (#Funcionalidades Principais)
-:small_blue_diamond: [Como iniciar] (#Como Iniciar)
+###Tópicos
+[Visão Geral] (#Visão Geral)
+[Tecnologias utilizadas] (#Tecnologias Utilizadas)
+[Funcionalidades principais] (#Funcionalidades Principais)
+[Como iniciar] (#Como Iniciar)
 
 Aprendendo React através de uma Rede Social Simples
 
