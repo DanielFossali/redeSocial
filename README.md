@@ -5,13 +5,13 @@
 
 ### Tópicos
 
-:small_blue_diamond:[Visão Geral](#visao-geral)
+:small_blue_diamond:[Visão Geral](#visão-geral)
 
 :small_blue_diamond:[Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 :small_blue_diamond:[Funcionalidades Principais](#funcionalidades-principais)
 
-:small_blue_diamond:[Como Iniciar](#como-iniciar)
+:small_blue_diamond:[Como iniciar](#como-iniciar)
 
 
 
@@ -33,7 +33,7 @@ O objetivo principal deste projeto é oferecer uma compreensão prática dos con
 ## Funcionalidades Principais
 **Feed de Postagens:** Os usuários podem compartilhar postagens, ver postagens de outros usuários e interagir com elas.
 
-## Como Iniciar :arrow_forward:
+## Como iniciar 
 
 1. Clone este repositório.
    ```bash
