@@ -6,10 +6,10 @@
 
 
 ###Tópicos
-[Visão Geral] (#Visão Geral)
-[Tecnologias utilizadas] (#Tecnologias Utilizadas)
-[Funcionalidades principais] (#Funcionalidades Principais)
-[Como iniciar] (#Como Iniciar)
+Visão Geral #Visão Geral
+Tecnologias utilizadas #Tecnologias Utilizadas
+Funcionalidades principais #Funcionalidades Principais
+Como iniciar #Como Iniciar
 
 Aprendendo React através de uma Rede Social Simples
 
